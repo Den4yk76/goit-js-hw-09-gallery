@@ -1,5 +1,6 @@
 import galleryItems from './app.js';
 import './sass/main.scss';
+import '../src/images/icon-close.svg';
 
 const refs = {
   galleryEl: document.querySelector('.js-gallery'),
